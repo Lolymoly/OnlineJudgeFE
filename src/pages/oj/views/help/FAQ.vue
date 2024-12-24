@@ -16,16 +16,8 @@
         <li>{{$t('m.How_Can_I_use_CPP_Int64')}} 
           <p>{{$t('m.How_Can_I_use_CPP_Int64_answer_part_1')}}<code>long long</code> {{$t('m.How_Can_I_use_CPP_Int64_answer_part_2')}} <code>cin/cout</code> {{$t('m.or')}} <code>%lld</code>, {{$t('m.using')}}<code> __int64</code> {{$t('m.How_Can_I_use_CPP_Int64_answer_part_3')}} <code>{{$t('m.Compile_Error')}}</code>.</p>
         </li>
-        <li>{{$t('m.Java_specifications')}}
-          <p>{{$t('m.Java_specifications_answer_part_1')}} <code>Main</code> {{$t('m.Java_specifications_answer_part_2')}} <code>Main</code> {{$t('m.Java_specifications_answer_part_3')}}</p>
-        </li>
         <li>{{$t('m.About_presentation_error')}}
           <p>{{$t('m.About_presentation_error_answer_part_1')}} <b>{{$t('m.last')}}</b> {{$t('m.About_presentation_error_answer_part_2')}} <code> {{$t('m.Wrong_Answer')}}</code>.</p>
-        </li>
-        <li>{{$t('m.How_to_report_bugs')}}
-          <p>{{$t('m.How_to_report_bugs_answer_part_1')}} <a href="https://github.com/QingdaoU/OnlineJudge">Github</a>
-            {{$t('m.How_to_report_bugs_answer_part_2')}}
-          </p>
         </li>
       </ul>
     </div>
